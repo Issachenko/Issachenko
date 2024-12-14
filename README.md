@@ -1,4 +1,4 @@
-## <p align="center">Привет, меня зовут Богдан. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) </p>
+## <p align="center">Привет  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), меня зовут Богдан! </p>
 <p align="center">Я Фронтенд-разработчик </p>
 
 <p align="center"> Мне 33, и мой путь только в веб-разработке начинается!</p>
